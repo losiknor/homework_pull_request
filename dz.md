@@ -93,10 +93,10 @@
 ## Справка
 Чтобы вызвать справку по команде нужно дописать тег
 
-    --help
+>    --help
 
 примеры:
 
-    git add --help
-    git branch --help
-    gitgit 
+>  git add --help
+>  git branch --help
+>  jikkmmv
