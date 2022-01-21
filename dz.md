@@ -91,3 +91,12 @@
     git branch -D branch_name
 
 
+## Справка
+Чтобы вызвать справку по команде нужно дописать тег
+
+    --help
+
+примеры:
+
+    git add --help
+    git branch --help
