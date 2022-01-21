@@ -100,3 +100,4 @@
 
     git add --help
     git branch --help
+    gitgit 
