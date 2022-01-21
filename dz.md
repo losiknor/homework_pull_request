@@ -97,6 +97,6 @@
 
 примеры:
 
-    git add --help
-    git branch --help
-    gitgit 
+> git add --help
+> git branch --help
+  
