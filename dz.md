@@ -73,3 +73,8 @@
 Переместиться в ветку с именем branch_name
 
     git checkout branch_name
+
+## Слияние веток и решение конфликтов
+Слить информацию из ветки branch_name в текущую:
+
+    git merge branch_name 
