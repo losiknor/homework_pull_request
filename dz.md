@@ -104,3 +104,16 @@
 > git add --help
 > git branch --help
   
+## Работа с удалённым репозиторием
+Используем интернет-сервис GitHub.
+
+Стянуть себе локальную копию удалённого репозитория
+
+    git clone ссылка
+
+Залить в удвлённую копию на GitHub с локального репозитория (3 команды)
+
+    git remote add origin ссылка
+    git branch -M main
+    git push -u origin main
+
