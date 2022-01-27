@@ -117,3 +117,6 @@
     git branch -M main
     git push -u origin main
 
+Стянуть изменения с GitHub в локальную копию
+
+    git pull
